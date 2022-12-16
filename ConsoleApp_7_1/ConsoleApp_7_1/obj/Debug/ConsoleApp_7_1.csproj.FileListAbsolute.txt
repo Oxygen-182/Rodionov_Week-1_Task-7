@@ -1,0 +1,14 @@
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_7_1\ConsoleApp_7_1\bin\Debug\ConsoleApp_7_1.exe.config
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_7_1\ConsoleApp_7_1\bin\Debug\ConsoleApp_7_1.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_7_1\ConsoleApp_7_1\bin\Debug\ConsoleApp_7_1.pdb
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_7_1\ConsoleApp_7_1\obj\Debug\ConsoleApp_7_1.csprojResolveAssemblyReference.cache
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_7_1\ConsoleApp_7_1\obj\Debug\ConsoleApp_7_1.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_7_1\ConsoleApp_7_1\obj\Debug\ConsoleApp_7_1.pdb
+E:\УПК\Нед_3\Задание_7\ConsoleApp_7_1\ConsoleApp_7_1\bin\Debug\ConsoleApp_7_1.exe.config
+E:\УПК\Нед_3\Задание_7\ConsoleApp_7_1\ConsoleApp_7_1\obj\Debug\ConsoleApp_7_1.exe
+E:\УПК\Нед_3\Задание_7\ConsoleApp_7_1\ConsoleApp_7_1\obj\Debug\ConsoleApp_7_1.pdb
+E:\УПК\Нед_3\Задание_7\ConsoleApp_7_1\ConsoleApp_7_1\bin\Debug\ConsoleApp_7_1.exe
+E:\УПК\Нед_3\Задание_7\ConsoleApp_7_1\ConsoleApp_7_1\bin\Debug\ConsoleApp_7_1.pdb
+E:\УПК\Нед_3\Задание_7\ConsoleApp_7_1\ConsoleApp_7_1\obj\Debug\ConsoleApp_7_1.csproj.AssemblyReference.cache
+E:\УПК\Нед_3\Задание_7\ConsoleApp_7_1\ConsoleApp_7_1\obj\Debug\ConsoleApp_7_1.csproj.SuggestedBindingRedirects.cache
+E:\УПК\Нед_3\Задание_7\ConsoleApp_7_1\ConsoleApp_7_1\obj\Debug\ConsoleApp_7_1.csproj.CoreCompileInputs.cache
